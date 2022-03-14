@@ -1,2 +1,1 @@
-# leader-board
-HTML and CSS
+# [leader-board](https://leader-board-websites.netlify.app/)
